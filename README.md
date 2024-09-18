@@ -31,3 +31,9 @@ py manage.py startapp polls
 - Run python manage.py migrate to apply those changes to the database.
 
 8. create superuser admin
+
+9. create templates in polls directory
+
+10. edit app_name and path name to urls.py (polls directory)
+
+11. refer the urls in views.py (polls directory)
